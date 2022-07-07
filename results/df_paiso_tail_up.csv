@@ -1,0 +1,5 @@
+,Genotype,type,Unnamed: 0,CCS_ID,mouse_ID,oocyte_ID,gene_ID,gene_name,fq_seq,pA_seq,polyA_len,tail_seq,tail_len,pA_U_number,tail_U_number,pA_U_percent,tail_U_percent,compare_pA_tail
+0,cKO,U_polyA_RNA,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990,3990
+1,cKO,polyA_RNA,996,996,996,996,996,996,996,996,996,995,996,996,995,996,995,996
+2,ctr,U_polyA_RNA,138,138,138,138,138,138,138,138,138,138,138,138,138,138,138,138
+3,ctr,polyA_RNA,1941,1941,1941,1941,1941,1941,1941,1941,1941,1940,1941,1941,1940,1941,1940,1941

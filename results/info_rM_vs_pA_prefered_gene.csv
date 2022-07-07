@@ -1,0 +1,9 @@
+,prefered,type,CCS_ID,Genotype,mouse_ID,oocyte_ID,gene_ID,gene_name,fq_seq,pA_seq,polyA_len,tail_seq,tail_len,pA_U_number,tail_U_number,pA_U_percent,tail_U_percent,compare_pA_tail
+0,pA_prefered_cKO,U_polyA_RNA,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76
+1,pA_prefered_cKO,polyA_RNA,57,57,57,57,57,57,57,57,57,57,57,57,57,57,57,57
+2,pA_prefered_ctr,U_polyA_RNA,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+3,pA_prefered_ctr,polyA_RNA,79,79,79,79,79,79,79,79,79,79,79,79,79,79,79,79
+4,rM_prefered_cKO,U_polyA_RNA,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053,4053
+5,rM_prefered_cKO,polyA_RNA,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025,2025
+6,rM_prefered_ctr,U_polyA_RNA,195,195,195,195,195,195,195,195,195,195,195,195,195,195,195,195
+7,rM_prefered_ctr,polyA_RNA,3672,3672,3672,3672,3672,3672,3672,3672,3672,3671,3672,3672,3671,3672,3671,3672
